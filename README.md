@@ -1,6 +1,6 @@
 # Daniel Bento
 Graduando em Análise e Desenvolvimento em Sistemas, tenho como foco desenvolver e aprimorar minhas habilidades de desenvolvimento de sistemas com ênfase em fullstack, consolidando boas práticas tanto em backend quanto em frontend e conectando as duas de forma sólida e consistente. No momento, estou  aperfeiçoando minhas habilidades com C#, .Net e MySQL.
-------------------------------------------------------------------
+
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bento-931541323/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danielvellutobento@gmail.com)
